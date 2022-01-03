@@ -1,0 +1,38 @@
+body{
+    font-family: 'Manrope', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.infinity-color{
+    color: rgb(198, 20, 221);
+}
+section{
+    display: flex;
+}
+.half-size{
+    width: 50%;
+}
+.half-size img{
+    width: 90%;
+}
+.left{
+    padding-left: 50px;
+    
+}
+#talk{
+    font-size: 20px;
+    padding-left: 50px;
+}
+.link{
+    text-decoration: none;
+    background-color: rgb(187, 34, 187);
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(204, 64, 204), rgb(140, 22, 207));
+}
+
+.vul{
+    background-image: url(images/download.jpg);
+    background-repeat: no-repeat;
+}
